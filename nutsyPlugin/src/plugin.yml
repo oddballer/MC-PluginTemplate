@@ -1,0 +1,5 @@
+name: NutsyInjector
+main: org.nutsy.nutsyInjector.NutsyInjector
+version: 1.0
+api-version: 1.21
+commands:
